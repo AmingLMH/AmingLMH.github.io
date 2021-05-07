@@ -1,0 +1,67 @@
+I"3<h1 id="web应用软件开发实训---第二次作业---开发一个静态网站">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</h1>
+
+<p>网站的公网网址:https://aminglmh.github.io/</p>
+
+<p>网站源代码Github仓库网址:https://github.com/AmingLMH/AmingLMH.github.io</p>
+
+<h2 id="一网站目录结构">一、网站目录结构</h2>
+<p>“tree”命令的输出网站目录结构截图如下：</p>
+
+<p><a href="https://imgtu.com/i/g8FDtH"><img src="https://z3.ax1x.com/2021/05/07/g8FDtH.png" alt="g8FDtH.png" /></a></p>
+
+<h2 id="二网站截图">二、网站截图</h2>
+<p>截图内容：</p>
+<ul>
+  <li>首页</li>
+</ul>
+
+<p><a href="https://imgtu.com/i/g8FOBT"><img src="https://z3.ax1x.com/2021/05/07/g8FOBT.png" alt="g8FOBT.png" /></a></p>
+<ul>
+  <li>Blog列表页</li>
+</ul>
+
+<p><a href="https://imgtu.com/i/g8kCg1"><img src="https://z3.ax1x.com/2021/05/07/g8kCg1.png" alt="g8kCg1.png" /></a></p>
+<ul>
+  <li>两篇Post（至少有一篇是Markdown练习）</li>
+</ul>
+
+<p><a href="https://imgtu.com/i/g8kZUe"><img src="https://z3.ax1x.com/2021/05/07/g8kZUe.png" alt="g8kZUe.png" /></a>
+<a href="https://imgtu.com/i/g8kMvt"><img src="https://z3.ax1x.com/2021/05/07/g8kMvt.png" alt="g8kMvt.png" /></a></p>
+<ul>
+  <li>
+    <p>Staff列表页</p>
+  </li>
+  <li>
+    <p>一个Staff列表页</p>
+  </li>
+</ul>
+
+<p><a href="https://imgtu.com/i/g8k3b8"><img src="https://z3.ax1x.com/2021/05/07/g8k3b8.png" alt="g8k3b8.png" /></a></p>
+<ul>
+  <li>一个作者简介页面</li>
+</ul>
+
+<p><a href="https://imgtu.com/i/g8kNCj"><img src="https://z3.ax1x.com/2021/05/07/g8kNCj.png" alt="g8kNCj.png" /></a></p>
+<ul>
+  <li>一个About页面</li>
+</ul>
+
+<p><a href="https://imgtu.com/i/g8ksVU"><img src="https://z3.ax1x.com/2021/05/07/g8ksVU.png" alt="g8ksVU.png" /></a></p>
+<h2 id="三实验过程">三、实验过程</h2>
+<ol>
+  <li>在WSL上安装Jekyll</li>
+  <li>在windows10上安装VSCode以及Remote插件，通过Remote插件连接WSL。</li>
+  <li>在VSCode中，按照Jekyll官方文档的”Step by Step Tutorial”的内容，完成1-9步。</li>
+  <li>通过”Jekyll serve”运行调试网站，并将Markdown练习内容依次以帖子的形式发布到网站上。</li>
+  <li>在WSL上安装nginx。</li>
+  <li>通过”jekyll build”编译网站，将编译得到的”_site”目录部署到nginx上，检查内容是否正确。</li>
+  <li>将网站源代码push到Github.com网站上，并通过Github.io网站检查Jekyll代码是否被正确编译。</li>
+</ol>
+
+<h2 id="四总结">四、总结</h2>
+<h3 id="总结回顾">总结回顾</h3>
+<p>有一说一，相关知识的学习陌生点比较多，尤其是刚接触时，一系列的环境配置要求，一个又一个教程中未提及的问题，请教同学，慢慢修改。由懵懂到逐渐熟悉，真的付出的很多的努力。具体而言，jekyll的操作还比较熟悉，nginx相对生疏。git的一系列操作也在bwq同学的指导下熟练掌握了。</p>
+
+<h3 id="问题解决">问题解决</h3>
+<p>图像的添加未参照常规的Markdown格式，而是利用图床，将之上传到网络上</p>
+:ET
