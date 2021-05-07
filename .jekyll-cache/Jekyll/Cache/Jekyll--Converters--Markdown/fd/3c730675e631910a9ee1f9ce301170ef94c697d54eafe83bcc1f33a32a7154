@@ -1,0 +1,17 @@
+I"�<h1 id="换行">换行</h1>
+<p>Markdown 段落没有特殊的格式，直接编写文字就好，段落的换行是使用两个以上空格加上回车<br />
+eg.<br />
+加空格时：<br />
+RUNOOB.COM <br />
+GOOGLE.COM<br />
+不加空格时：<br />
+RUNOOB.COM
+GOOGLE.COM</p>
+<h1 id="字体">字体</h1>
+<p><em>斜体文本</em>
+<em>斜体文本</em>
+<strong>粗体文本</strong>
+<strong>粗体文本</strong>
+<strong><em>粗斜体文本</em></strong>
+<strong><em>粗斜体文本</em></strong></p>
+:ET
