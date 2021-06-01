@@ -1,0 +1,61 @@
+I"�<h1 id="web应用软件开发实训---第三次作业---git-使用">WEB应用软件开发实训 - 第三次作业 - Git 使用</h1>
+
+<blockquote>
+  <p>learngit 项目网址为：https://github.com/AmingLMH/learngit</p>
+</blockquote>
+
+<h2 id="一必做内容">（一）必做内容</h2>
+
+<h3 id="1安装git">1.安装Git</h3>
+<p>截图内容：</p>
+
+<p><a href="https://imgtu.com/i/2KD1gS"><img src="https://z3.ax1x.com/2021/06/01/2KD1gS.png" alt="2KD1gS.png" /></a></p>
+<h3 id="2创建版本库">2、创建版本库</h3>
+<p>截图内容：</p>
+
+<p><a href="https://imgtu.com/i/2KDUNq"><img src="https://z3.ax1x.com/2021/06/01/2KDUNq.png" alt="2KDUNq.png" /></a></p>
+
+<h3 id="3版本控制">3、版本控制</h3>
+
+<p><a href="https://imgtu.com/i/2KDwCV"><img src="https://z3.ax1x.com/2021/06/01/2KDwCV.png" alt="2KDwCV.png" /></a></p>
+<h3 id="4版本回退">4、版本回退</h3>
+
+<p><a href="https://imgtu.com/i/2KDsu4"><img src="https://z3.ax1x.com/2021/06/01/2KDsu4.png" alt="2KDsu4.png" /></a></p>
+<h3 id="5工作区和暂存区">5、工作区和暂存区</h3>
+
+<p><a href="https://imgtu.com/i/2KD6b9"><img src="https://z3.ax1x.com/2021/06/01/2KD6b9.png" alt="2KD6b9.png" /></a></p>
+<h3 id="6管理修改">6、管理修改</h3>
+
+<p><a href="https://imgtu.com/i/2KDR4x"><img src="https://z3.ax1x.com/2021/06/01/2KDR4x.png" alt="2KDR4x.png" /></a></p>
+<h3 id="7撤销修改">7、撤销修改</h3>
+
+<p><a href="https://imgtu.com/i/2KDR4x"><img src="https://z3.ax1x.com/2021/06/01/2KDR4x.png" alt="2KDR4x.png" /></a></p>
+<h3 id="8删除文件">8、删除文件</h3>
+
+<p><a href="https://imgtu.com/i/2KD4gO"><img src="https://z3.ax1x.com/2021/06/01/2KD4gO.png" alt="2KD4gO.png" /></a></p>
+<h3 id="9远程仓库">9、远程仓库</h3>
+
+<p><a href="https://imgtu.com/i/2KDTDH"><img src="https://z3.ax1x.com/2021/06/01/2KDTDH.png" alt="2KDTDH.png" /></a></p>
+<h3 id="10添加到远程仓库">10、添加到远程仓库</h3>
+
+<p><a href="https://imgtu.com/i/2KDbVA"><img src="https://z3.ax1x.com/2021/06/01/2KDbVA.png" alt="2KDbVA.png" /></a></p>
+<h2 id="二选做内容">(二)选做内容</h2>
+<h3 id="1分支管理相关">1、分支管理相关</h3>
+
+<p><a href="https://imgtu.com/i/2KDxxS"><img src="https://z3.ax1x.com/2021/06/01/2KDxxS.png" alt="2KDxxS.png" /></a></p>
+<h3 id="2标签管理相关">2、标签管理相关</h3>
+
+<h3 id="3使用gitee">3、使用Gitee</h3>
+
+<h3 id="4自定义git相关">4、自定义Git相关</h3>
+
+<p><a href="https://imgtu.com/i/2KrSKg"><img src="https://z3.ax1x.com/2021/06/01/2KrSKg.png" alt="2KrSKg.png" /></a></p>
+<h2 id="三实验过程">三、实验过程</h2>
+
+<h2 id="四总结">四、总结</h2>
+<h3 id="总结回顾">总结回顾</h3>
+<p>有一说一，相关知识的学习陌生点比较多，尤其是刚接触时，一系列的环境配置要求，一个又一个教程中未提及的问题，请教同学，慢慢修改。由懵懂到逐渐熟悉，真的付出的很多的努力。具体而言，jekyll的操作还比较熟悉，nginx相对生疏。git的一系列操作也在bwq同学的指导下熟练掌握了。</p>
+
+<h3 id="问题解决">问题解决</h3>
+<p>图像的添加未参照常规的Markdown格式，而是利用图床，将之上传到网络上</p>
+:ET
